@@ -1,0 +1,60 @@
+.alias{
+	cursor: alias;
+}
+.all-scroll{
+	cursor: all-scroll;
+}
+.auto{
+	cursor: auto;
+}
+.cell{
+	cursor: cell;
+}
+.context-menu{
+	cursor: context-menu;
+}
+.crosshair{
+	cursor: crosshair;
+}
+.default{
+	cursor: default;
+}
+.e-resize{
+	cursor: e-resize;
+}
+.grab{
+	cursor: grab;
+}
+.move{
+	cursor: move;
+}
+.n-resize{
+	cursor: n-resize;
+}
+.no-drop{
+	cursor: no-drop;
+}
+.not-allowed{
+	cursor: not-allowed;
+}
+.pointer{
+	cursor: pointer;
+}
+.progress{
+	cursor: progress;
+}
+.text{
+	cursor: text;
+}
+.url{
+	cursor: url;
+}
+.wait{
+	cursor: wait;
+}
+.zoom-in{
+	cursor: zoom-in;
+}
+.zoom-out{
+	cursor: zoom-out;
+}
